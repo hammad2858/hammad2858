@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Hammad Siddiqui👋<a href="https://hammad2858.github.io/hammad/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad2858"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;AI+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/hammad2858"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;AI+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 <h2>Tech Stack</h2>
